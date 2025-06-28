@@ -252,6 +252,9 @@ color: #7D7987;
     width: 266px;
     margin-bottom: 20px;
 }
+.section4 a::after{
+    content: "→";
+}
 
 .section4{
     display: flex;
